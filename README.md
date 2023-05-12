@@ -12,5 +12,5 @@
                      
 
 
-- ⚡ Fun fact: The NFL has a team of developers who work on building and maintaining their digital platforms and apps? These developers use a variety of technologies, including React, Ruby on Rails, and Java. In fact, the NFL has a public API that developers can use to build their own applications using NFL data.
+- ⚡ Fun fact: The NFL has a team of developers who work on building and maintaining their digital platforms and apps. These developers use a variety of technologies, including React, Ruby on Rails, and Java. In fact, the NFL has a public API that developers can use to build their own applications using NFL data.
 
