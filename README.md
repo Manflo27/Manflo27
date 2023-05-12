@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning oftware development practices such as Agile methodology and version control systems like Git.
 
-- 📫 How to reach me: #0A66C2 linkedin.com/in/manuel-flores-0816894b/
-                      #181717 github.com/Manflo27
+- 📫 How to reach me: [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Manflo27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manny-flores-0816894b/)
+
                      
 
 
